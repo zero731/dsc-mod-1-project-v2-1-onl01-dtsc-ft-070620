@@ -3,3 +3,7 @@
 __pycache__
 *.db
 *.pytest_cache
+data_files/title.basics.tsv.gz
+imdbZippedData/name.basics.tsv.gz
+imdbZippedData/title.akas.tsv.gz
+imdbZippedData/title.principals.tsv.gz
